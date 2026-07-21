@@ -29,6 +29,12 @@ Instead of reading PDFs passively, users can upload documents and interact with 
 
 ---
 
+## 🚀 Live Demo
+
+🔗 [ai-learning-assistant-h.vercel.app](https://ai-learning-assistant-h.vercel.app/)
+
+---
+
 # ✨ Features
 
 ## 📄 Smart Document Processing
