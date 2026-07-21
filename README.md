@@ -377,7 +377,7 @@ npm run dev
 
 # 👨‍💻 Author
 
-**Harsh Kadam**
+**Harshad Kadam**
 
 B.Tech CSE | MERN Stack Developer | AI Enthusiast
 
