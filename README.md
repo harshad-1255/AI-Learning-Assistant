@@ -214,56 +214,57 @@ AI-Learning-Assistant
 
 ## Dashboard
 
-
 <img src = "./Screenshots/Dashboard.png">
 
 ---
 
 ## Documents
 
-<img src="screenshots/document.png"/>
+<img src = "./Screenshots/document.png">
 
 ---
 
 ## AI Chat
 
-<img src="screenshots/chat.png"/>
+
+<img src = "./Screenshots/chat.png">
 
 ---
 
 ## AI Summary
 
-<img src="screenshots/aisummary.png"/>
+
+<img src = "./Screenshots/AiSummary.png">
 
 ---
 
 ## AI Actions
 
-<img src="screenshots/aiaction.png"/>
+<img src = "./Screenshots/aiAction.png">
 
 ---
 
 ## Flashcard Sets
 
-<img src="screenshots/flashcards.png"/>
+<img src = "./Screenshots/flashcarddashboard.png">
 
 ---
 
 ## Flashcard Study Mode
 
-<img src="screenshots/flashcard1.png"/>
+<img src = "./Screenshots/flashcard1.png">
 
 ---
 
-<img src="screenshots/flashcarddashboard.png"/>
+<img src = "./Screenshots/flashcards.png">
 
 ## Quiz Generation
 
-<img src="screenshots/quiz.png"/>
+<img src = "./Screenshots/quiz1.png">
 
 ---
 
-<img src="screenshots/quiz1.png"/>
+<img src = "./Screenshots/quiz.png">
 
 # 🔄 Application Flow
 
