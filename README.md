@@ -214,7 +214,8 @@ AI-Learning-Assistant
 
 ## Dashboard
 
-<img src="screenshots/dashboard.png"/>
+
+<img src = "./Screenshots/Dashboard.png">
 
 ---
 
